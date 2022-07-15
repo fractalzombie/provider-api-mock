@@ -1,0 +1,58 @@
+[
+  {
+    "provider": "Visa",
+    "publicToken": "589397767",
+    "primaryAccountNumber": "4782838850549014",
+    "cvv": "123",
+    "expirationDate": "2014-02-29",
+    "status": "expired"
+  },
+  {
+    "provider": "Visa",
+    "publicToken": "545031699",
+    "primaryAccountNumber": "4782830002697443",
+    "cvv": "123",
+    "expirationDate": "2014-04-12",
+    "status": "expired"
+  },
+  {
+    "provider": "Visa",
+    "publicToken": "589933579",
+    "primaryAccountNumber": "4782838855959028",
+    "cvv": "813",
+    "expirationDate": "2024-06-30",
+    "status": "blocked"
+  },
+  {
+    "provider": "Visa",
+    "publicToken": "559763259",
+    "primaryAccountNumber": "4782831275736662",
+    "cvv": "349",
+    "expirationDate": "2024-12-30",
+    "status": "activated"
+  },
+  {
+    "provider": "Visa",
+    "publicToken": "102334247",
+    "primaryAccountNumber": "4782850243599358",
+    "cvv": "781",
+    "expirationDate": "2024-11-30",
+    "status": "activated"
+  },
+  {
+    "provider": "Visa",
+    "publicToken": "345506682",
+    "primaryAccountNumber": "4672881414159972",
+    "cvv": "251",
+    "expirationDate": "2024-09-30",
+    "status": "activated"
+  },
+  {
+    "provider": "Visa",
+    "publicToken": "285742832",
+    "primaryAccountNumber": "4672880832155778",
+    "cvv": "219",
+    "expirationDate": "2024-08-31",
+    "status": "activated"
+  }
+]
